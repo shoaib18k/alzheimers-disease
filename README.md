@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alzheimer Detection
 
 An educational deep-learning application for classifying brain images into
@@ -27,3 +28,7 @@ an informational recommendation.
 This project is for educational and research purposes only. Its predictions
 are not medical advice or a diagnosis. Consult a qualified healthcare
 professional for medical interpretation.
+=======
+# alzheimers-disease
+This repo contains code to detect Alzheimer's disease.
+>>>>>>> 115f9b8c86d8aa5807907b94a51ac682739257fd
